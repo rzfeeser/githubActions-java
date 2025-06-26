@@ -36,7 +36,7 @@ jobs:
       # we want to make the artifact available for download
       # alternatively we could configure this step to upload to 
       - name: Upload compiled Java artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: java-artifact
           path: HelloWorld.class
