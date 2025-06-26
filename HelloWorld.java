@@ -1,5 +1,5 @@
 /* Author @RZFeeser
-   A simple Java app that can be compiled by our GitHub workflow */
+   A simple Java app that can be compiled by our GitHub workflow. */
 
 public class HelloWorld {
     public static void main(String[] args) {
